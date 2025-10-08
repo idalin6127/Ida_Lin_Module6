@@ -1,4 +1,9 @@
-# Week 6 — Voice Agent with Function Calling - Ida Lin
+<p align="center">
+  <img src="logo/logo.png" alt="Project Logo" width="300"/>
+</p>
+
+
+# Week 6 — Voice Agent with Function Calling
 
 ## Overview
 Based on Week 3's ASR→LLM→TTS flow, function calling capabilities are added. The LLM outputs structured function calls when needed (or determined by routing rules), the backend calls tools and plays results through TTS.
