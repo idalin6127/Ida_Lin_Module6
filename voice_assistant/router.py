@@ -1,3 +1,4 @@
+
 # router.py — Enhanced version: Robust JSON extraction + Weather rules
 import json, re
 from typing import Optional
