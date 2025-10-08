@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="logo/logo.png" alt="Project Logo" width="500"/>
 </p>
 
